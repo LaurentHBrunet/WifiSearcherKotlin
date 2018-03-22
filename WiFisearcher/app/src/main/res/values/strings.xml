@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wi-Fi searcher</string>
+    <string name="title_activity_wifi_searcher">Wi-Fi searcher</string>
+    <string name="wigle_API_base">https://api.wigle.net/api/v2/network/search?onlymine=false&amp;freenet=false&amp;paynet=false&amp;</string>
+    <string name="wigle_netid_parameter">netid=</string>
+    <string name="wigle_auth_token">Basic QUlENDBiMmJlNzRjMThlNzFiYWJhYmQyZDEzMjMwNjZlMDU6YTMzNGIyZWY3YzI5OGNkMzQxM2JjOWZmMWFmZjRiNmI=</string>
+    <string name="wigle_http_auth_header">Authorization</string>
+    <string name="title_activity_lists">Lists activity</string>
+    <string name="title_activity_ap_list">ApList</string>
+    <string name="info_text">This application\'s goal is to allow the user to map nearby Wi-Fi access points and to display these access points information. You will see on the map three color of markers : green indicates an access point that is not password protected, red indicates an access point that is password protected and yellow is a favorite access point that was pinned from the lists menu. The app uses a database updated by the users themselves, so it will get more accurate as the users move around scanning with the app. </string>
+</resources>
